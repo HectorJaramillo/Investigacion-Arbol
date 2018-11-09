@@ -1,0 +1,14 @@
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\bin\Debug\CSharpTree.exe.config
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\bin\Debug\CSharpTree.exe
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\bin\Debug\CSharpTree.pdb
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\obj\Debug\CSharpTree.csprojResolveAssemblyReference.cache
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\obj\Debug\CSharpTree.csproj.CoreCompileInputs.cache
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\obj\Debug\CSharpTree.exe
+c:\users\dell core i5\source\repos\CSharpTree\CSharpTree\obj\Debug\CSharpTree.pdb
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\bin\Debug\CSharpTree.exe.config
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\bin\Debug\CSharpTree.exe
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\bin\Debug\CSharpTree.pdb
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\obj\Debug\CSharpTree.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\obj\Debug\CSharpTree.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\obj\Debug\CSharpTree.exe
+C:\Users\DELL CORE i5\Desktop\CSharpTree\CSharpTree\obj\Debug\CSharpTree.pdb
